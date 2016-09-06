@@ -1,0 +1,1 @@
+This is a basic Ruby&Sinatra based skeleton web-app for Orchard deployments
